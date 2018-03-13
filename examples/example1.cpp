@@ -1,6 +1,8 @@
 /*
    Here's a small IPv4 example: it asks for a portbase and a destination and 
    starts sending packets to that destination.
+
+    这是一个IPv4的小例子：它需要一个本地端口和一个目标IP和端口，然后开始发送数据包到该目标地址
 */
 
 #include "rtpsession.h"
